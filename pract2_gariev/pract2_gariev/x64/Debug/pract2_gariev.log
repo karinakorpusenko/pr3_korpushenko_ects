@@ -1,0 +1,3 @@
+﻿  pract2_gariev.cpp
+C:\Users\karin\Documents\котик c(91,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  pract2_gariev.vcxproj -> C:\Users\karin\Documents\котик c#\pract2_gariev\x64\Debug\pract2_gariev.exe
